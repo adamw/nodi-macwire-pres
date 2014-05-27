@@ -1,0 +1,9 @@
+There's more!
+
+* factories
+
+* wiring inside methods
+
+* scopes
+  - request
+  - session

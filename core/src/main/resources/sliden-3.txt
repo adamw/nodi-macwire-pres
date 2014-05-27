@@ -1,0 +1,11 @@
+Cake Pattern
+
+* move implementations inside the traits
+
+Pros:
+* more natural to use abstract types
+* nice way of declaring & using dependencies
+
+Cons:
+* more boilerplate
+* imposes a coding style

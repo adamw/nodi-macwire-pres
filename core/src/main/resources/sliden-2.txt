@@ -1,0 +1,11 @@
+MacWire
+
+* Generates wiring code for class instantiation
+
+* Macro-based
+
+* Also implementations for scopes & interceptors
+
+* Supports "Thin Cake Pattern"
+
+* Instance-lookup-map generation (web f/w integration)
