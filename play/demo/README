@@ -1,0 +1,8 @@
+Differences from a new Play app
+===============================
+
+* controllers are classes with dependencies
+* services - normal objects implementing the "business logic"
+* Global - lookup of controller instances
+* Application - "end of the world" wiring
+* routes - need an @ before controller name
