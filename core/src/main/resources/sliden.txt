@@ -19,6 +19,4 @@
 
 * https://github.com/adamw/nodi-macwire-pres
 
-* I'm proud of my code! --> http://www.codebrag.com/
-
 * @adamwarski
