@@ -6,7 +6,7 @@ object NodiMacwirePresBuild extends Build {
   val buildSettings = Defaults.defaultSettings ++ Seq (
     organization  := "com.softwaremill.nodi-macwire-pres",
     version       := "1.0",
-    scalaVersion  := "2.11.1"
+    scalaVersion  := "2.11.2"
   )
 
   lazy val root: Project = Project(
@@ -28,8 +28,8 @@ object NodiMacwirePresBuild extends Build {
     settings = buildSettings ++ Seq(
       libraryDependencies ++= Seq(
         // macwire
-        "com.softwaremill.macwire" %% "macros" % "0.6",
-        "com.softwaremill.macwire" %% "runtime" % "0.6",
+        "com.softwaremill.macwire" %% "macros" % "0.7",
+        "com.softwaremill.macwire" %% "runtime" % "0.7",
         // util
         "com.typesafe.scala-logging" %% "scala-logging-slf4j" % "2.1.2",
         "ch.qos.logback" % "logback-classic" % "1.1.2",
