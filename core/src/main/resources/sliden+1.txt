@@ -8,7 +8,7 @@
 
          *Codebrag*:
 
-         * Code review tool for daily reviews
+         * Daily code review tool
          * I'm proud of my code!
          * http://www.codebrag.com/
 
