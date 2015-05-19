@@ -8,7 +8,7 @@ libraryDependencies ++= Seq(
   jdbc,
   anorm,
   cache,
-  "com.softwaremill.macwire" %% "macros" % "0.7"
+  "com.softwaremill.macwire" %% "macros" % "1.0.1"
 )
 
 val root = (project in file(".")).enablePlugins(PlayScala)
